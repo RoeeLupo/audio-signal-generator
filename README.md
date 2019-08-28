@@ -1,5 +1,5 @@
 # audio-signal-generator
-audio signal generator made with arduino
+A simple audio signal generator made with arduino
 
 # parts 
 - Arduino UNO
