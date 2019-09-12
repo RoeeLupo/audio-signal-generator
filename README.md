@@ -27,7 +27,7 @@
 - Jumper wires (generic)
 
 ## Notes
-- connected + (plus) and - (minus) rows on the breadboard to the 5V and GND pins on the arduino board 
+- Connect + (plus) and - (minus) rows on the breadboard to the 5V and GND pins on the arduino board 
 - The trimmer controls the LCD intensity 
 
 ## Scheme 
